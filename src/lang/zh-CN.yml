@@ -1,0 +1,29 @@
+# 配置文件语法参考：http://www.ruanyifeng.com/blog/2016/07/yaml.html
+btnText:
+  - 确定
+  - 取消
+  - 提交
+  - 重新发送
+  - 添加
+  - 获取验证码
+  - 复制
+btnStatus:
+  - 请稍等
+statusMessage:
+  - 成功
+  - 失败
+  - 未知结果
+  - 设置成功
+  - '已发送{time}S'
+  - 复制成功
+  - 输入信息无效
+  - 保存成功
+  - 保存失败
+  - 未实名
+  - 未知等级
+xhrError:
+  - 请登录
+  - '{code} 登录超时'
+title:
+  home: 首页
+  about: 关于

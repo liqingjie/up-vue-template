@@ -1,0 +1,9 @@
+[submodule "src/plugins"]
+	path = src/plugins
+	url = http://172.20.2.254/uptop/vue-template.plugins.git
+[submodule "src/setup"]
+	path = src/setup
+	url = http://172.20.2.254/uptop/vue-template.setup.git
+[submodule "src/utils"]
+	path = src/utils
+	url = http://172.20.2.254/uptop/vue-template.utils.git
